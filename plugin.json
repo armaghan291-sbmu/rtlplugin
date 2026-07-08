@@ -1,0 +1,15 @@
+{
+    "id": "ir.elecserv",
+    "name": "Elecserv Plugins",
+    "description": "This plugin added some features to mattermost.",
+    "version": "0.0.1",
+    "min_server_version": "0.0.1",
+    "webapp": {
+        "bundle_path": "webapp/dist/main.js"
+    },
+    "settings_schema": {
+        "header": "",
+        "footer": "",
+        "settings": []
+    }
+}
