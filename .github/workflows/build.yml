@@ -1,4 +1,4 @@
-name: Package Mattermost Plugin
+name: Package Mattermost Plugin RTL
 
 on:
   workflow_dispatch:
