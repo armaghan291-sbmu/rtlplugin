@@ -21,3 +21,4 @@ jobs:
         with:
           name: mattermost-plugin
           path: ir.elecserv.tar.gz
+
